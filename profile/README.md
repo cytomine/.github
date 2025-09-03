@@ -1,7 +1,7 @@
 # Welcome to Cytomine :wave:
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cytomine/cytomine/main/docs/src/.vuepress/public/images/cytomine-uliege-logo.png" alt="Cytomine ULiège">
+    <img src="https://raw.githubusercontent.com/cytomine/cytomine/main/docs/src/.vuepress/public/images/cytomine-uliege-logo.png" alt="Cytomine ULiège">
 </div>
 
 <div align="center">
@@ -11,3 +11,14 @@
 ## What is Cytomine?
 
 Cytomine is an open-source software platform designed for managing and analysing large-scale imaging data, particularly in the field of bioinformatics and digital pathology. It enables collaborative analysis by allowing multiple users to work together on the same set of images, providing tools for annotation, sharing, and commenting. It provides tools for the storage, visualisation, and annotation of images, as well as for integrating machine learning models into image analysis workflows.
+
+## Getting Started
+
+Ready to explore Cytomine? Here are a few ways to begin:
+
+1. **Try Cytomine**
+    - [Getting Started](https://doc.uliege.cytomine.org/user-guide/getting-started)
+    - [Install Cytomine](https://doc.uliege.cytomine.org/admin-guide/ce/installation)
+
+2. **Explore Repositories**
+   - [cytomine/cytomine](https://github.com/cytomine/cytomine): Cytomine source code
