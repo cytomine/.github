@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-:page_facing_up: <a href="https://uliege.cytomine.org/">Website</a> | :books: <a href="https://doc.uliege.cytomine.org/">Docs</a> | :mag_right: <a href="https://forum.image.sc/tag/cytomine">Image.sc</a> | :email: <a href="mailto:uliege@cytomine.org">Contact Us</a> | :speech_balloon: <a href="https://github.com/cytomine/cytomine/discussions">Join the discussion</a>
+:page_facing_up: <a href="https://uliege.cytomine.org/">Website</a> | :books: <a href="https://doc.uliege.cytomine.org/">Docs</a> | :mag_right: <a href="https://forum.image.sc/tag/cytomine">Image.sc</a> | :email: <a href="mailto:uliege@cytomine.org">Contact Us</a>
 </div>
 
 ## What is Cytomine?
