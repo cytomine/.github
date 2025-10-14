@@ -9,8 +9,3 @@ assignees: ""
 ## Description
 
 Description of the task
-
-## Tasks
-
-- [ ] Todo 1
-- [ ] Todo 2
