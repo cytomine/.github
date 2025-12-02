@@ -28,7 +28,8 @@ Description of the steps to reproduce the bug.
 
 Describe the environment you are running Cytomine on.
 
-What version of Cytomine are you running? Also, provide the version of each service.
+If possible, include the commit hash you are running Cytomine.
+> This helps us reproduce and diagnose issues more accurately.
 
 # Additional information
 
